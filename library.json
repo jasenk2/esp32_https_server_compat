@@ -17,12 +17,13 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/fhessel/esp32_https_server_compat.git"
+    "url": "https://github.com/jasenk/esp32_https_server_compat.git"
   },
   "dependencies": [
     {
       "name": "esp32_https_server",
-      "version": "~1.0.0"
+      "type": "git",
+      "url": "https://github.com/jasenk/esp32_https_server"
     }
   ],
   "license": "LGPL-2.1-only",
